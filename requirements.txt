@@ -1,0 +1,10 @@
+Django==1.11.7
+django-jet==1.0.6
+django-material==1.1.1
+djangorestframework==3.7.3
+djangorestframework-jwt==1.11.0
+olefile==0.44
+Pillow==4.3.0
+psycopg2==2.7.3.2
+PyJWT==1.5.3
+pytz==2017.3
